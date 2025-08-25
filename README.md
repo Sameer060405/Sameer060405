@@ -23,9 +23,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
 
-![snake gif](https://github.com/Sameer060405/Sameer060405/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
