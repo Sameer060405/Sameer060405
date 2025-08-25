@@ -52,24 +52,20 @@
 
 ---
 
-## 🚀 Featured Projects
-<div align="center">
+## 🚀 Featured Projects  
 
-<a href="https://github.com/Sameer060405/Movie-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer060405&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Sameer060405/Diabetes-Prediction-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer060405&repo=Diabetes-Prediction-Model&theme=tokyonight&hide_border=true" />
-</a>
+- 🎬 [Movie Recommendation System](https://github.com/Sameer060405/Movie-Recommendation-System)  
+  A machine learning-based system that recommends movies based on user preferences.  
 
-</div>
+- 🩺 [Diabetes Prediction Model](https://github.com/Sameer060405/Diabetes-Prediction-Model)  
+  Predicts the likelihood of diabetes using ML algorithms and health data.  
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sameer060405/Sameer060405/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+### 🐍 Contribution Snake  
+
+![snake gif](https://github.com/Sameer060405/Sameer060405/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
