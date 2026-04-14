@@ -28,12 +28,5 @@ one-click AI fix application via the Code Actions API.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sameer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer060405&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer060405&layout=compact&theme=radical)  
-
----
 
 ⭐️ From [Sameer060405](https://github.com/Sameer060405)
